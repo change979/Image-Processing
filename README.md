@@ -29,7 +29,6 @@
 
 - Windows 7/8/10/11 (64位系统)
 - 至少4GB内存
-- 500MB可用硬盘空间
 - 显示分辨率：1280x720或更高
 
 ## 项目结构
@@ -98,9 +97,6 @@
 ### 方法二：从源码运行
 
 ```bash
-# 克隆代码仓库
-git clone https://github.com/yourusername/image-processing-tool.git
-cd image-processing-tool
 
 # 创建虚拟环境（可选但推荐）
 python -m venv venv
